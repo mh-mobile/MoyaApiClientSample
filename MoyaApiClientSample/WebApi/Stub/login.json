@@ -1,0 +1,8 @@
+{
+    "status": "0",
+    "code": "0",
+    "message": "login request was correct.",
+    "results": {
+        "session_key": "d6c3b023aed1c6986c7e4b9515de6abf"
+    }
+}
